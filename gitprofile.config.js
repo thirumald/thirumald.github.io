@@ -92,7 +92,7 @@ const config = {
   },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: '', // Please remove this and use your own tag id or keep it empty
+    id: 'G-BXVLBG9R32', // Please remove this and use your own tag id or keep it empty
   },
   hotjar: {
     id: '', //  Please remove this and use your own id or keep it empty
