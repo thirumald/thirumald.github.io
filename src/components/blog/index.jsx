@@ -29,6 +29,7 @@ const Blog = ({ loading, blog, googleAnalytics }) => {
         getDevPost({
           user: blog.username,
         }).then((res) => {
+          console.log(res);
           setArticles(res);
         });
       }
